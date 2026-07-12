@@ -1,16 +1,39 @@
-# React + Vite
+# React Context API Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A simple React application demonstrating how to use the **Context API** for global state management. This project features a basic login flow where user information is shared across components without prop drilling.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- User Login
+- Global State Management using Context API
+- Profile Page with User Details
+- React Hooks (`useState`, `useContext`)
+- Clean and Simple UI
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- JavaScript
+- Context API
 
-## Expanding the Oxlint configuration
+## 📚 Concepts Covered
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- Context API
+- useContext Hook
+- useState Hook
+- Component Communication
+- Global State Management
+
+## ▶️ Getting Started
+
+```bash
+git clone https://github.com/YOUR_USERNAME/react-context-api-demo.git
+cd react-context-api-demo
+npm install
+npm run dev
+```
+
+## 👨‍💻 Author
+
+**Priyansu Baliarsingh**
